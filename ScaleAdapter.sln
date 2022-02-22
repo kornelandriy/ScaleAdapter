@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScaleAdapter", "ScaleAdapter\ScaleAdapter.csproj", "{595B1F12-FBFE-4528-BC67-7665FBDBEE8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{595B1F12-FBFE-4528-BC67-7665FBDBEE8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{595B1F12-FBFE-4528-BC67-7665FBDBEE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{595B1F12-FBFE-4528-BC67-7665FBDBEE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{595B1F12-FBFE-4528-BC67-7665FBDBEE8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6828D02-1C76-4C4C-A43B-0629FE80A9D5}
+	EndGlobalSection
+EndGlobal
